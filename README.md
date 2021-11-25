@@ -16,6 +16,9 @@ CONFIGURE ENV
 ```bash
 php artisan key:generate
 ```
+```bash
+php artisan migrate --seed
+```
 
 ```bash
 php artisan serve
